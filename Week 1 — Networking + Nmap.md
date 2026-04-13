@@ -20,6 +20,9 @@ filtered- The port may be blocked by a firewall, or something between me and the
 Port 502 closed on a PLC in a real OT network = dangerous, means it's reachable and unprotected even if nothing is running
 
 
+
+
+
 # Date: Apr 12
 
 Today I went deeper into IP addressing and subnetting, mapped out my actual home network using Nmap, and learned the different ways Nmap can scan a target. 
